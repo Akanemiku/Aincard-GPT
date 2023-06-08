@@ -5,7 +5,7 @@
 
 ![cover](./docs/images/cover.png)
 
-### Contributor
+## Contributor
 
 [Contributors](https://github.com/Akanemiku/Aincard-GPT/graphs/contributors)
 
